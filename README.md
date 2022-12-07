@@ -40,11 +40,3 @@ Task manager application built using **NODE JS** and **MongoDB**. It follows a *
 ## Postman Collection Link
 
 [Task Manager API Shared Collection](https://documenter.getpostman.com/view/7972459/Szf82npY)
-
-## Contributing
-
-You can fork the repository and send pull request or reach out easily to me via twitter => [Kater Akeren](https://twitter.com/katerakeren)
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within the project, please create an issue. All security vulnerabilities will be promptly addressed and appreciated.
